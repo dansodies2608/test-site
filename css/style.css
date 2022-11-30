@@ -678,7 +678,7 @@ margin-left: 6px;
    
 }
 .oblako{
-    position: absolute;
+    position: relative;
 }
 .textOut {
     margin-top: 60px;

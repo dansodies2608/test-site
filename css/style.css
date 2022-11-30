@@ -278,7 +278,9 @@ position: relative;
     padding-top: 5px;
     
 } 
-
+.cats{
+    position: absolute;
+}
 .block1 {
     display: flex;
 }

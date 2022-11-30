@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Tilda Sans Extra';
-    src: url('/fonts/TildaSans-ExtraBold.eot');
+    src: url('./fonts/TildaSans-ExtraBold.eot');
     src: local('Tilda Sans Extra Bold'), local('TildaSans-ExtraBold'),
-        url('/fonts/TildaSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-ExtraBold.woff2') format('woff2'),
-        url('/fonts/TildaSans-ExtraBold.woff') format('woff'),
-        url('/fonts/TildaSans-ExtraBold.ttf') format('truetype');
+        url('./fonts/TildaSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-ExtraBold.woff2') format('woff2'),
+        url('./fonts/TildaSans-ExtraBold.woff') format('woff'),
+        url('./fonts/TildaSans-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -15,10 +15,10 @@
     font-family: 'Tilda Sans VF';
     src: url('/fonts/TildaSansVF.eot');
     src: local('Tilda Sans VF'), local('TildaSansVF'),
-        url('/fonts/TildaSansVF.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSansVF.woff2') format('woff2'),
-        url('/fonts/TildaSansVF.woff') format('woff'),
-        url('/fonts/TildaSansVF.ttf') format('truetype');
+        url('./fonts/TildaSansVF.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSansVF.woff2') format('woff2'),
+        url('./fonts/TildaSansVF.woff') format('woff'),
+        url('./fonts/TildaSansVF.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Tilda Sans';
-    src: url('/fonts/TildaSans-Medium.eot');
+    src: url('./fonts/TildaSans-Medium.eot');
     src: local('Tilda Sans Medium'), local('TildaSans-Medium'),
-        url('/fonts/TildaSans-Medium.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-Medium.woff2') format('woff2'),
-        url('/fonts/TildaSans-Medium.woff') format('woff'),
-        url('/fonts/TildaSans-Medium.ttf') format('truetype');
+        url('./fonts/TildaSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-Medium.woff2') format('woff2'),
+        url('./fonts/TildaSans-Medium.woff') format('woff'),
+        url('./fonts/TildaSans-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -39,12 +39,12 @@
 
 @font-face {
     font-family: 'Tilda Sans';
-    src: url('/fonts/TildaSans-Bold.eot');
+    src: url('./fonts/TildaSans-Bold.eot');
     src: local('Tilda Sans Bold'), local('TildaSans-Bold'),
-        url('/fonts/TildaSans-Bold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-Bold.woff2') format('woff2'),
-        url('/fonts/TildaSans-Bold.woff') format('woff'),
-        url('/fonts/TildaSans-Bold.ttf') format('truetype');
+        url('./fonts/TildaSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-Bold.woff2') format('woff2'),
+        url('./fonts/TildaSans-Bold.woff') format('woff'),
+        url('./fonts/TildaSans-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -52,12 +52,12 @@
 
 @font-face {
     font-family: 'Tilda Sans';
-    src: url('/fonts/TildaSans-Light.eot');
+    src: url('./fonts/TildaSans-Light.eot');
     src: local('Tilda Sans Light'), local('TildaSans-Light'),
-        url('/fonts/TildaSans-Light.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-Light.woff2') format('woff2'),
-        url('/fonts/TildaSans-Light.woff') format('woff'),
-        url('/fonts/TildaSans-Light.ttf') format('truetype');
+        url('./fonts/TildaSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-Light.woff2') format('woff2'),
+        url('./fonts/TildaSans-Light.woff') format('woff'),
+        url('./fonts/TildaSans-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -65,12 +65,12 @@
 
 @font-face {
     font-family: 'Tilda Sans';
-    src: url('/fonts/TildaSans-Black.eot');
+    src: url('./fonts/TildaSans-Black.eot');
     src: local('Tilda Sans Black'), local('TildaSans-Black'),
-        url('/fonts/TildaSans-Black.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-Black.woff2') format('woff2'),
-        url('/fonts/TildaSans-Black.woff') format('woff'),
-        url('/fonts/TildaSans-Black.ttf') format('truetype');
+        url('./fonts/TildaSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-Black.woff2') format('woff2'),
+        url('./fonts/TildaSans-Black.woff') format('woff'),
+        url('./fonts/TildaSans-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -78,12 +78,12 @@
 
 @font-face {
     font-family: 'Tilda Sans';
-    src: url('/fonts/TildaSans-Regular.eot');
+    src: url('./fonts/TildaSans-Regular.eot');
     src: local('Tilda Sans'), local('TildaSans-Regular'),
-        url('/fonts/TildaSans-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TildaSans-Regular.woff2') format('woff2'),
-        url('/fonts/TildaSans-Regular.woff') format('woff'),
-        url('/fonts/TildaSans-Regular.ttf') format('truetype');
+        url('./fonts/TildaSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/TildaSans-Regular.woff2') format('woff2'),
+        url('./fonts/TildaSans-Regular.woff') format('woff'),
+        url('./fonts/TildaSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -91,65 +91,65 @@
 
 @font-face {
     font-family: "Druk";
-    src: url("/fonts/durk/deeff3aedaadade4fe1de6a56c680c13.eot");
-    src: url("/fonts/durk/deeff3aedaadade4fe1de6a56c680c13.eot?#iefix") format("embedded-opentype"),
-    url("/fonts/durk/deeff3aedaadade4fe1de6a56c680c13.woff2") format("woff2"),
-    url("/fonts/durk/deeff3aedaadade4fe1de6a56c680c13.woff") format("woff"),
-    url("/fonts/durk/deeff3aedaadade4fe1de6a56c680c13.ttf") format("truetype");
+    src: url("./fonts/durk/deeff3aedaadade4fe1de6a56c680c13.eot");
+    src: url("./fonts/durk/deeff3aedaadade4fe1de6a56c680c13.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/durk/deeff3aedaadade4fe1de6a56c680c13.woff2") format("woff2"),
+    url("./fonts/durk/deeff3aedaadade4fe1de6a56c680c13.woff") format("woff"),
+    url("./fonts/durk/deeff3aedaadade4fe1de6a56c680c13.ttf") format("truetype");
 }
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/BebasNeueRegular.eot');
-    src: local('/fonts/Bebas Neue Regular'),
+    src: url('./fonts/BebasNeueRegular.eot');
+    src: local('./fonts/Bebas Neue Regular'),
     local('BebasNeueRegular'),
-        url('/fonts/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasNeueRegular.woff') format('woff'),
-        url('/fonts/BebasNeueRegular.ttf') format('truetype');
+        url('./fonts/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BebasNeueRegular.woff') format('woff'),
+        url('./fonts/BebasNeueRegular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/BebasNeueBold.eot');
-    src: local('/fonts/Bebas Neue Bold'), local('BebasNeueBold'),
-        url('/fonts/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasNeueBold.woff') format('woff'),
-        url('/fonts/BebasNeueBold.ttf') format('truetype');
+    src: url('./fonts/BebasNeueBold.eot');
+    src: local('./fonts/Bebas Neue Bold'), local('BebasNeueBold'),
+        url('./fonts/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BebasNeueBold.woff') format('woff'),
+        url('./fonts/BebasNeueBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/BebasNeueLight.eot');
-    src: local('/fonts/Bebas Neue Light'),
+    src: url('./fonts/BebasNeueLight.eot');
+    src: local('Bebas Neue Light'),
     local('BebasNeueLight'),
-        url('/fonts/BebasNeueLight.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasNeueLight.woff') format('woff'),
-        url('/fonts/BebasNeueLight.ttf') format('truetype');
+        url('./fonts/BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BebasNeueLight.woff') format('woff'),
+        url('./fonts/BebasNeueLight.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/BebasNeue-Thin.eot');
+    src: url('./fonts/BebasNeue-Thin.eot');
     src: local('Bebas Neue Thin'), local('BebasNeue-Thin'),
-        url('/fonts/BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasNeue-Thin.woff') format('woff'),
-        url('/fonts/BebasNeue-Thin.ttf') format('truetype');
+        url('./fonts/BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BebasNeue-Thin.woff') format('woff'),
+        url('./fonts/BebasNeue-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bebas Neue Book';
-    src: url('/fonts/BebasNeueBook.eot');
+    src: url('./fonts/BebasNeueBook.eot');
     src: local('Bebas Neue Book'), local('BebasNeueBook'),
-        url('/fonts/BebasNeueBook.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/BebasNeueBook.woff') format('woff'),
-        url('/fonts/BebasNeueBook.ttf') format('truetype');
+        url('./fonts/BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BebasNeueBook.woff') format('woff'),
+        url('./fonts/BebasNeueBook.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -186,6 +186,7 @@ html, body {
 }
 
 .wrapper {
+    width: 100vw;
     max-width: 480px;
     display: block;
     margin: 0px auto;
@@ -241,7 +242,7 @@ img.logo {
 }
 .btn a::after {
 content: '';
-background-image: url(/img/lap.png);
+background-image: url(./img/lap.png);
 width: 18px;
 height: 18px;
 margin-left: 4px;
@@ -278,9 +279,7 @@ position: relative;
     padding-top: 5px;
     
 } 
-.cats{
-    position: absolute;
-}
+
 .block1 {
     display: flex;
 }
@@ -509,7 +508,7 @@ h5 {
    margin-left: 14px;
 }
 div#block8 {
-    background-image: url(/img/fonForm.png);
+    background-image: url(./img/fonForm.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 776px;
@@ -761,7 +760,7 @@ margin-left: 6px;
 
 .list-modul li{
     list-style-type: square;
-    list-style-image: url(/img/point-list.svg);
+    list-style-image: url(./img/point-list.svg);
     list-style-position: outside;
 }
 .list-modul {
@@ -834,6 +833,7 @@ margin-left: 6px;
     align-items: center;
     color: #B5B5B5;
     position: relative;
+    
 }
 .name2 {
     position: relative;
